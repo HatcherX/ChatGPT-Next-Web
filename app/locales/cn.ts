@@ -4,7 +4,7 @@ const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
     Unauthorized:
-      "访问密码不正确或为空，请前往[设置](/#/settings)页输入正确的访问密码，或者填入你自己的 OpenAI API Key。",
+      "**免费免费！！自由打赏5-6任意金额免费无次数限制，无期限使用（💥免费使用全部功能💥）！！**      联系客服微信领取：Yueyi_Wife1.          授权密码不正确或为空，请前往[设置](/#/settings)页输入正确的授权密码",
   },
   ChatItem: {
     ChatItemCount: (count: number) => `${count} 条对话`,
@@ -32,7 +32,7 @@ const cn = {
     Send: "发送",
     Config: {
       Reset: "清除记忆",
-      SaveAs: "存为面具",
+      SaveAs: "存为应用",
     },
   },
   Export: {
@@ -47,8 +47,8 @@ const cn = {
       SubTitle: "可以导出 Markdown 文本或者 PNG 图片",
     },
     IncludeContext: {
-      Title: "包含面具上下文",
-      SubTitle: "是否在消息中展示面具上下文",
+      Title: "包含应用上下文",
+      SubTitle: "是否在消息中展示应用上下文",
     },
     Steps: {
       Select: "选取",
@@ -96,7 +96,7 @@ const cn = {
     },
 
     Update: {
-      Version: (x: string) => `当前版本：${x}`,
+      Version: (x: string) => `当前版本：多功能公益版`,
       IsLatest: "已是最新版本",
       CheckUpdate: "检查更新",
       IsChecking: "正在检查更新...",
@@ -111,8 +111,8 @@ const cn = {
       SubTitle: "在预览气泡中预览 Markdown 内容",
     },
     Mask: {
-      Title: "面具启动页",
-      SubTitle: "新建聊天时，展示面具启动页",
+      Title: "应用启动页",
+      SubTitle: "新建聊天时，展示应用启动页",
     },
     Prompt: {
       Disable: {
@@ -142,8 +142,8 @@ const cn = {
     },
     Token: {
       Title: "API Key",
-      SubTitle: "使用自己的 Key 可绕过密码访问限制",
-      Placeholder: "OpenAI API Key",
+      SubTitle: "此选项非专业无需填写",
+      Placeholder: "无需填写",
     },
 
     Usage: {
@@ -156,11 +156,11 @@ const cn = {
       NoAccess: "输入 API Key 或访问密码查看余额",
     },
     AccessCode: {
-      Title: "访问密码",
-      SubTitle: "管理员已开启加密访问",
-      Placeholder: "请输入访问密码",
+      Title: "🔒授权码🔒",
+      SubTitle: "捐赠任意金额授权",
+      Placeholder: "请输入🔒授权码🔒",
     },
-    Model: "模型 (model)",
+    Model: "模型 (勿改)",
     Temperature: {
       Title: "随机性 (temperature)",
       SubTitle: "值越大，回复越随机",
@@ -198,14 +198,14 @@ const cn = {
     Revert: "恢复上下文",
   },
   Plugin: {
-    Name: "插件",
+    Name: "公告",
   },
   Mask: {
-    Name: "面具",
+    Name: "智能应用",
     Page: {
-      Title: "预设角色面具",
+      Title: "预设角色应用",
       SubTitle: (count: number) => `${count} 个预设角色定义`,
-      Search: "搜索角色面具",
+      Search: "搜索角色应用",
       Create: "新建",
     },
     Item: {
@@ -218,7 +218,7 @@ const cn = {
     },
     EditModal: {
       Title: (readonly: boolean) =>
-        `编辑预设面具 ${readonly ? "（只读）" : ""}`,
+        `编辑预设应用 ${readonly ? "（只读）" : ""}`,
       Download: "下载预设",
       Clone: "克隆预设",
     },
@@ -238,11 +238,11 @@ const cn = {
   },
   NewChat: {
     Return: "返回",
-    Skip: "直接开始",
+    Skip: "立即挑选",
     NotShow: "不再展示",
     ConfirmNoShow: "确认禁用？禁用后可以随时在设置中重新启用。",
-    Title: "挑选一个面具",
-    SubTitle: "现在开始，与面具背后的灵魂思维碰撞",
+    Title: "海量的ChatGPT应用",
+    SubTitle: "或在几秒钟内创建属于自己的应用",
     More: "查看全部",
   },
 

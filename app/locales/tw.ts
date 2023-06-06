@@ -32,7 +32,7 @@ const tw: LocaleType = {
     Send: "發送",
     Config: {
       Reset: "重置默认",
-      SaveAs: "另存为面具",
+      SaveAs: "另存为应用",
     },
   },
   Export: {
@@ -91,8 +91,8 @@ const tw: LocaleType = {
       SubTitle: "在预览气泡中预览 Markdown 内容",
     },
     Mask: {
-      Title: "面具启动页",
-      SubTitle: "新建聊天时，展示面具启动页",
+      Title: "应用启动页",
+      SubTitle: "新建聊天时，展示应用启动页",
     },
     Prompt: {
       Disable: {
@@ -139,7 +139,7 @@ const tw: LocaleType = {
       SubTitle: "目前是未授權存取狀態",
       Placeholder: "請輸入授權碼",
     },
-    Model: "模型 (model)",
+    Model: "模型 (勿改)",
     Temperature: {
       Title: "隨機性 (temperature)",
       SubTitle: "值越大，回應越隨機",
@@ -175,13 +175,13 @@ const tw: LocaleType = {
     Edit: "前置上下文和歷史記憶",
     Add: "新增一條",
   },
-  Plugin: { Name: "插件" },
+  Plugin: { Name: "公告" },
   Mask: {
-    Name: "面具",
+    Name: "智能应用",
     Page: {
-      Title: "预设角色面具",
+      Title: "预设角色应用",
       SubTitle: (count: number) => `${count} 个预设角色定义`,
-      Search: "搜索角色面具",
+      Search: "搜索角色应用",
       Create: "新建",
     },
     Item: {
@@ -194,7 +194,7 @@ const tw: LocaleType = {
     },
     EditModal: {
       Title: (readonly: boolean) =>
-        `编辑预设面具 ${readonly ? "（只读）" : ""}`,
+        `编辑预设应用 ${readonly ? "（只读）" : ""}`,
       Download: "下载预设",
       Clone: "克隆预设",
     },
@@ -206,8 +206,8 @@ const tw: LocaleType = {
   NewChat: {
     Return: "返回",
     Skip: "跳过",
-    Title: "挑选一个面具",
-    SubTitle: "现在开始，与面具背后的灵魂思维碰撞",
+    Title: "海量的ChatGPT应用",
+    SubTitle: "或在几秒钟内创建属于自己的应用",
     More: "搜索更多",
     NotShow: "不再展示",
     ConfirmNoShow: "确认禁用？禁用后可以随时在设置中重新启用。",
