@@ -238,12 +238,12 @@ const cn = {
   },
   NewChat: {
     Return: "返回",
-    Skip: "立即挑选",
+    Skip: "直接开始",
     NotShow: "不再展示",
     ConfirmNoShow: "确认禁用？禁用后可以随时在设置中重新启用。",
     Title: "海量的ChatGPT应用",
     SubTitle: "或在几秒钟内创建属于自己的应用",
-    More: "查看全部",
+    More: "立即挑选",
   },
 
   UI: {
