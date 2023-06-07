@@ -23,7 +23,6 @@ export const CN_MASKS: BuiltinMask[] = [
     },
     lang: "cn",
     builtin: true,
-    id: 100002,
   },
   {
     avatar: "1f4c2",
@@ -47,7 +46,6 @@ export const CN_MASKS: BuiltinMask[] = [
     },
     lang: "cn",
     builtin: true,
-    id: 100003,
   },
   {
     avatar: "1f4ea",
@@ -77,7 +75,6 @@ export const CN_MASKS: BuiltinMask[] = [
     },
     lang: "cn",
     builtin: true,
-    id: 100004,
   },
   {
     avatar: "1f4e6",
@@ -107,7 +104,6 @@ export const CN_MASKS: BuiltinMask[] = [
     },
     lang: "cn",
     builtin: true,
-    id: 100005,
   },
   {
     avatar: "1f4b8",
@@ -131,7 +127,6 @@ export const CN_MASKS: BuiltinMask[] = [
     },
     lang: "cn",
     builtin: true,
-    id: 100006,
   },
   {
     avatar: "1f9f8",
@@ -155,7 +150,6 @@ export const CN_MASKS: BuiltinMask[] = [
     },
     lang: "cn",
     builtin: true,
-    id: 100007,
   },
   {
     avatar: "1f4a0",
@@ -179,7 +173,6 @@ export const CN_MASKS: BuiltinMask[] = [
     },
     lang: "cn",
     builtin: true,
-    id: 100008,
   },
   {
     avatar: "1f913",
@@ -203,7 +196,6 @@ export const CN_MASKS: BuiltinMask[] = [
     },
     lang: "cn",
     builtin: true,
-    id: 100009,
   },
   {
     avatar: "1f9ed",
@@ -227,7 +219,6 @@ export const CN_MASKS: BuiltinMask[] = [
     },
     lang: "cn",
     builtin: true,
-    id: 100010,
   },
   {
     avatar: "1f4f1",
@@ -251,7 +242,6 @@ export const CN_MASKS: BuiltinMask[] = [
     },
     lang: "cn",
     builtin: true,
-    id: 100011,
   },
   {
     avatar: "1f0cf",
@@ -275,7 +265,6 @@ export const CN_MASKS: BuiltinMask[] = [
     },
     lang: "cn",
     builtin: true,
-    id: 100012,
   },
   {
     avatar: "1f464",
@@ -299,7 +288,6 @@ export const CN_MASKS: BuiltinMask[] = [
     },
     lang: "cn",
     builtin: true,
-    id: 100013,
   },
   {
     avatar: "1f4e7",
@@ -323,7 +311,6 @@ export const CN_MASKS: BuiltinMask[] = [
     },
     lang: "cn",
     builtin: true,
-    id: 100014,
   },
   {
     avatar: "1f467",
@@ -347,7 +334,6 @@ export const CN_MASKS: BuiltinMask[] = [
     },
     lang: "cn",
     builtin: true,
-    id: 100015,
   },
   {
     avatar: "1f638",
@@ -371,7 +357,6 @@ export const CN_MASKS: BuiltinMask[] = [
     },
     lang: "cn",
     builtin: true,
-    id: 100016,
   },
   {
     avatar: "1f9d1",
@@ -395,7 +380,6 @@ export const CN_MASKS: BuiltinMask[] = [
     },
     lang: "cn",
     builtin: true,
-    id: 100017,
   },
   {
     avatar: "1f9ea",
@@ -419,7 +403,6 @@ export const CN_MASKS: BuiltinMask[] = [
     },
     lang: "cn",
     builtin: true,
-    id: 100018,
   },
   {
     avatar: "1f52e",
@@ -443,7 +426,6 @@ export const CN_MASKS: BuiltinMask[] = [
     },
     lang: "cn",
     builtin: true,
-    id: 100019,
   },
   {
     avatar: "1f9d9",
@@ -467,7 +449,6 @@ export const CN_MASKS: BuiltinMask[] = [
     },
     lang: "cn",
     builtin: true,
-    id: 100020,
   },
   {
     avatar: "1f525",
@@ -491,7 +472,6 @@ export const CN_MASKS: BuiltinMask[] = [
     },
     lang: "cn",
     builtin: true,
-    id: 100021,
   },
   {
     avatar: "1f4f1",
@@ -515,7 +495,6 @@ export const CN_MASKS: BuiltinMask[] = [
     },
     lang: "cn",
     builtin: true,
-    id: 100022,
   },
   {
     avatar: "1f440",
@@ -539,7 +518,6 @@ export const CN_MASKS: BuiltinMask[] = [
     },
     lang: "cn",
     builtin: true,
-    id: 100023,
   },
   {
     avatar: "1f45c",
@@ -563,7 +541,6 @@ export const CN_MASKS: BuiltinMask[] = [
     },
     lang: "cn",
     builtin: true,
-    id: 100024,
   },
   {
     avatar: "1f95a",
@@ -587,7 +564,6 @@ export const CN_MASKS: BuiltinMask[] = [
     },
     lang: "cn",
     builtin: true,
-    id: 100025,
   },
   {
     avatar: "1f4c4",
@@ -610,7 +586,6 @@ export const CN_MASKS: BuiltinMask[] = [
     },
     lang: "cn",
     builtin: true,
-    id: 100026,
   },
   {
     avatar: "1f9fe",
@@ -634,7 +609,6 @@ export const CN_MASKS: BuiltinMask[] = [
     },
     lang: "cn",
     builtin: true,
-    id: 100027,
   },
   {
     avatar: "1f197",
@@ -658,7 +632,6 @@ export const CN_MASKS: BuiltinMask[] = [
     },
     lang: "cn",
     builtin: true,
-    id: 100028,
   },
   {
     avatar: "1f4b3",
@@ -682,7 +655,6 @@ export const CN_MASKS: BuiltinMask[] = [
     },
     lang: "cn",
     builtin: true,
-    id: 100029,
   },
   {
     avatar: "1f61d",
@@ -705,7 +677,6 @@ export const CN_MASKS: BuiltinMask[] = [
     },
     lang: "cn",
     builtin: true,
-    id: 100030,
   },
   {
     avatar: "1f4e6",
@@ -729,7 +700,6 @@ export const CN_MASKS: BuiltinMask[] = [
     },
     lang: "cn",
     builtin: true,
-    id: 100031,
   },
   {
     avatar: "1f388",
@@ -753,7 +723,6 @@ export const CN_MASKS: BuiltinMask[] = [
     },
     lang: "cn",
     builtin: true,
-    id: 100032,
   },
   {
     avatar: "1f381",
@@ -777,7 +746,6 @@ export const CN_MASKS: BuiltinMask[] = [
     },
     lang: "cn",
     builtin: true,
-    id: 100033,
   },
   {
     avatar: "1f4d5",
@@ -801,7 +769,6 @@ export const CN_MASKS: BuiltinMask[] = [
     },
     lang: "cn",
     builtin: true,
-    id: 100034,
   },
   {
     avatar: "1f916",
@@ -825,7 +792,6 @@ export const CN_MASKS: BuiltinMask[] = [
     },
     lang: "cn",
     builtin: true,
-    id: 100035,
   },
   {
     avatar: "1f970",
@@ -849,7 +815,6 @@ export const CN_MASKS: BuiltinMask[] = [
     },
     lang: "cn",
     builtin: true,
-    id: 100036,
   },
   {
     avatar: "1f499",
@@ -873,7 +838,6 @@ export const CN_MASKS: BuiltinMask[] = [
     },
     lang: "cn",
     builtin: true,
-    id: 100037,
   },
   {
     avatar: "1f5bc-fe0f",
@@ -909,7 +873,6 @@ export const CN_MASKS: BuiltinMask[] = [
     },
     lang: "cn",
     builtin: true,
-    id: 100038,
   },
   {
     avatar: "1f9d1-200d-1f3eb",
@@ -933,6 +896,5 @@ export const CN_MASKS: BuiltinMask[] = [
     },
     lang: "cn",
     builtin: true,
-    id: 100039,
   },
 ];
