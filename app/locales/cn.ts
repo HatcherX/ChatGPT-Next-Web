@@ -1,7 +1,7 @@
 import { SubmitKey } from "../store/config";
 
 const cn = {
-  WIP: "该功能仍在开发中……",
+  WIP: "AI绘画正在开发中....",
   Error: {
     Unauthorized:
       "**免费免费！！！自由打赏5-6任意金额免费无次数限制，无期限使用（💥免费使用全部功能💥）！！**      联系客服微信:tttz137 获取         授权密码不正确或为空，请前往[设置](/#/settings)页输入正确的授权密码",
@@ -176,7 +176,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "有什么可以帮你的吗",
+    BotHello: "我是ChatGpt,有什么可以帮你的吗",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
